@@ -7,7 +7,7 @@ This repository contains four machine learning models for Neural Machine Transla
 * Helsinki-MT: This is a Transformer-based NMT model trained on the Helsinki Corpora. It supports translation between a variety of language pairs.
 * Meta-NLLB-200: This is a state-of-the-art NMT model from Meta AI that supports translation between 200 languages. It is based on the No Language Left Behind (NLLB) project, which aims to develop high-quality machine translation capabilities for most of the world's languages.
 * Transformer: This is the original Transformer model for NMT, which was first introduced in the paper "Attention is All You Need" by Vaswani et al. (2017).
-* Custom Model: This is a template for creating your own custom NMT model.
+* Neural Machine Translation using LSTM: This is a template for creating a LLM model using LSTM.
 
 ## Features
 
