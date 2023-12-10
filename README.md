@@ -32,7 +32,7 @@ This repository contains four machine learning models for Neural Machine Transla
 * Extensive research base: Supported by a vast body of research and development efforts.
 * Easy to interpret: Allows visualization and analysis of the attention mechanism.
   
-### Custom Model:
+### Neural Machine Translation using LSTM:
 
 * Tailored to your needs: Build a model optimized for specific languages or domains.
 * Full control over training: Fine-tune hyperparameters and experiment with different architectures.
@@ -60,7 +60,7 @@ This repository contains four machine learning models for Neural Machine Transla
 ### Transformer:
 * Vaswani et al., 2017: https://arxiv.org/abs/1706.03762
   
-### Custom Model:
+### Neural Machine Translation using LSTM:
 * TensorFlow documentation: https://www.tensorflow.org/
 * PyTorch documentation: https://pytorch.org/
 
